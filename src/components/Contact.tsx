@@ -59,7 +59,7 @@ export function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900 mb-1">Address</h4>
-                  <p className="text-gray-600">123 Sunshine Street<br />Brighton, BN1 2AB<br />United Kingdom</p>
+                  <p className="text-gray-600">456 East Lane<br />London, E1 6AN<br />United Kingdom</p>
                 </div>
               </div>
 
@@ -69,7 +69,7 @@ export function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900 mb-1">Phone</h4>
-                  <p className="text-gray-600">+44 1234 567890</p>
+                  <p className="text-gray-600">+44 20 7946 0958</p>
                 </div>
               </div>
 
@@ -79,7 +79,7 @@ export function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900 mb-1">Email</h4>
-                  <p className="text-gray-600">info@sunshineprimary.edu</p>
+                  <p className="text-gray-600">info@eastschool.edu</p>
                 </div>
               </div>
             </div>

@@ -7,8 +7,8 @@ export function About() {
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">About Our School</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Sunshine Primary School has been nurturing young minds for over 30 years,
-            providing a vibrant learning environment where creativity and curiosity flourish.
+            East School has been nurturing young minds for over 25 years,
+            providing a vibrant learning environment where academic excellence and character development flourish.
           </p>
         </div>
 

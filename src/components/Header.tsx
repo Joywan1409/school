@@ -19,8 +19,8 @@ export function Header() {
               <BookOpen className="w-8 h-8 text-white" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-gray-900">Sunshine Primary</h1>
-              <p className="text-sm text-gray-600">Learn, Grow, Shine</p>
+              <h1 className="text-2xl font-bold text-gray-900">East School</h1>
+              <p className="text-sm text-gray-600">Excellence, Learning, Success</p>
             </div>
           </div>
 

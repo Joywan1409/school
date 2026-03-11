@@ -11,13 +11,13 @@ export function Footer() {
                 <BookOpen className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h3 className="text-xl font-bold">Sunshine Primary</h3>
-                <p className="text-sm text-gray-400">Learn, Grow, Shine</p>
+                <h3 className="text-xl font-bold">East School</h3>
+                <p className="text-sm text-gray-400">Excellence, Learning, Success</p>
               </div>
             </div>
             <p className="text-gray-400 mb-4">
-              Inspiring young minds and building bright futures since 1994.
-              Every child deserves the opportunity to shine.
+              Inspiring young minds and building bright futures since 1999.
+              Every child deserves the opportunity to succeed.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="bg-gray-800 p-2 rounded-full hover:bg-blue-600 transition">
@@ -59,7 +59,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 Sunshine Primary School. All rights reserved.</p>
+          <p>&copy; 2024 East School. All rights reserved.</p>
         </div>
       </div>
     </footer>

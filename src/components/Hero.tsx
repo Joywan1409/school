@@ -6,10 +6,10 @@ export function Hero() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="text-center mb-16">
           <h2 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6">
-            Welcome to <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-600">Sunshine Primary School</span>
+            Welcome to <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-600">East School</span>
           </h2>
           <p className="text-xl md:text-2xl text-gray-700 max-w-3xl mx-auto">
-            Where every child's potential shines bright and learning becomes an adventure
+            Fostering academic excellence and character development for every student
           </p>
         </div>
 
